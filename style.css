@@ -1,0 +1,44 @@
+body{
+    background-repeat: no-repeat;
+    background-size:cover;
+    /*overflow-x: 10%;*/
+    margin: 0px;
+    position: sticky;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+        
+    /* background-attachment: fixed; */
+    background-position: center center;
+   color: white;
+   
+   
+}
+.btn btn-primary btn-sm{
+  background-color: red;
+}
+.row{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.myweb{
+  color: rgb(168, 40, 8);
+}
+.credits{
+  padding-top:20px;
+  color: black;
+  /* color: aquamarine; */
+  background-color:transparent;
+}
+#fun{
+  color: black;
+}
+.container{
+    backdrop-filter: blur(5px);
+    margin:0%;
+}
+.container-flui{
+  /* background-color: rgb(128, 111, 104); */
+   backdrop-filter: blur(23px); 
+   color:black;
+  height: 231px;
+}
